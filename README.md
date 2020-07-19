@@ -1,2 +1,2 @@
-# Predator-Prey-model
+# Predator Prey model
 Program was created for purpose of bachelor's project "Comparison of ecological balance cellular automaton models with Lotka-Volterra models". It is an implementation of the model, which simulates existing of two species (predators and preys) in environment. This is a cellular automata model, with discrete two dimensional grid and discrete time. It calculates position of every animal in actual time step and displays information about positions on grid. It also saves information about numbers of animals in time steps.
